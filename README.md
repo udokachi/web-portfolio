@@ -1,2 +1,2 @@
 # web-portfolio
-web portfolio using Html, Css and  Javascript
+Building a web portfolio using Html, Css and  Javascript
